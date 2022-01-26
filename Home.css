@@ -21,22 +21,22 @@
   font-family: Ubuntu;
   font-size: 2.25rem;
   font-weight: 400;
-  margin: 0 60px;
+  margin: 0;
 }
 
 .u-section-1 .u-text-2 {
-  margin: 21px 21px 0 1px;
+  font-size: 3.4375rem;
+  margin: 21px 23px 0 12px;
 }
 
 .u-section-1 .u-btn-1 {
   background-image: none;
-  font-size: 3.4375rem;
   padding: 0;
 }
 
 .u-section-1 .u-text-3 {
   font-size: 1.5rem;
-  margin: 60px 38px 0 0;
+  margin: 60px 38px 0 16px;
 }
 
 .u-section-1 .u-btn-2 {
@@ -75,17 +75,13 @@
     padding-right: 40px;
   }
 
-  .u-section-1 .u-text-1 {
-    margin-left: 17px;
-    margin-right: 17px;
-  }
-
   .u-section-1 .u-text-2 {
     margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-1 .u-text-3 {
+    margin-left: 0;
     margin-right: 0;
     width: 407px;
   }
@@ -120,8 +116,6 @@
 
   .u-section-1 .u-text-1 {
     font-size: 1.875rem;
-    margin-left: 0;
-    margin-right: 0;
   }
 
   .u-section-1 .u-text-3 {
@@ -154,6 +148,10 @@
     width: 340px;
   }
 
+  .u-section-1 .u-text-2 {
+    font-size: 1.5rem;
+  }
+
   .u-section-1 .u-text-3 {
     width: 340px;
   }
@@ -166,13 +164,13 @@
 }
 
 .u-section-2 .u-text-1 {
-  margin: 25px auto 0;
+  margin: 12px auto 0;
 }
 
 .u-section-2 .u-gallery-1 {
   height: 512px;
   width: 912px;
-  margin: auto auto 16px;
+  margin: 35px auto 28px;
 }
 
 .u-section-2 .u-carousel-indicators-1 {
