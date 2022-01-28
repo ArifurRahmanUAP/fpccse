@@ -8,8 +8,8 @@
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .u-section-1 .u-image-1 {
@@ -28,7 +28,7 @@
   font-weight: 700;
   background-image: none;
   font-size: 1rem;
-  margin: 585px auto 0 258px;
+  margin: 586px auto 0 249px;
   padding: 10px 52px 10px 51px;
 }
 
@@ -42,8 +42,8 @@
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 474px;
-    margin-left: 201px;
+    margin-top: 475px;
+    margin-left: 198px;
     padding-right: 37px;
     padding-left: 36px;
   }
@@ -60,7 +60,7 @@
 
   .u-section-1 .u-btn-1 {
     margin-top: 360px;
-    margin-left: 160px;
+    margin-left: 157px;
     padding: 7px 16px 7px 15px;
   }
 }
@@ -71,13 +71,13 @@
   }
 
   .u-section-1 .u-image-1 {
-    background-position: 27.61% 50%;
+    background-position: 22.01% 50%;
     min-height: 354px;
   }
 
   .u-section-1 .u-btn-1 {
     margin-top: 301px;
-    margin-left: 121px;
+    margin-left: 118px;
     padding: 2px 4px 3px 3px;
   }
 }
@@ -88,14 +88,14 @@
   }
 
   .u-section-1 .u-image-1 {
-    background-position: 24.78% 50%;
+    background-position: 19.12% 50%;
     min-height: 231px;
   }
 
   .u-section-1 .u-btn-1 {
     font-size: 0.625rem;
     margin-top: 188px;
-    margin-left: 80px;
+    margin-left: 75px;
     padding: 5px 5px 5px 4px;
   }
 } .u-section-2 {
@@ -109,8 +109,8 @@
 }
 
 .u-section-2 .u-layout-wrap-1 {
-  margin-top: 34px;
-  margin-bottom: 54px;
+  width: 1140px;
+  margin: 29px auto 59px;
 }
 
 .u-section-2 .u-layout-cell-1 {
@@ -145,7 +145,7 @@
   background-image: url("images/186522463_10159112680119666_8694596015443610754_n.jpg");
   background-position: 80.92% 30.04%;
   min-height: 427px;
-  background-size: 220%;
+  background-size: auto 220%;
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -164,7 +164,7 @@
 
   .u-section-2 .u-layout-wrap-1 {
     margin-top: 25px;
-    margin-bottom: 59px;
+    width: 940px;
   }
 
   .u-section-2 .u-layout-cell-1 {
@@ -187,6 +187,7 @@
 
   .u-section-2 .u-layout-wrap-1 {
     margin-bottom: 60px;
+    width: 720px;
   }
 
   .u-section-2 .u-layout-cell-1 {
@@ -224,6 +225,7 @@
   .u-section-2 .u-layout-wrap-1 {
     margin-top: 0;
     margin-bottom: 38px;
+    width: 540px;
   }
 
   .u-section-2 .u-container-layout-1 {
@@ -253,6 +255,7 @@
   .u-section-2 .u-layout-wrap-1 {
     margin-top: 22px;
     margin-bottom: 60px;
+    width: 340px;
   }
 
   .u-section-2 .u-image-1 {
