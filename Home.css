@@ -640,6 +640,10 @@
 }
 
 @media (max-width: 991px) {
+  .u-section-4 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
   .u-section-4 .u-list-1 {
     width: 720px;
   }
@@ -744,10 +748,6 @@
   .u-section-4 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
-  }
-
-  .u-section-4 .u-text-1 {
-    font-size: 3rem;
   }
 
   .u-section-4 .u-list-1 {
@@ -887,7 +887,9 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-text-1 {
-    font-size: 1.875rem;
+    width: auto;
+    margin-top: 10px;
+    margin-left: 0;
   }
 
   .u-section-4 .u-list-1 {
