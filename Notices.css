@@ -21,6 +21,152 @@
   margin: 40px auto 0;
 }
 
+.u-section-1 .u-image-1 {
+	width: 100%;
+	height: auto;
+  background-image: url("images/fpc.jpg");
+  background-position: 50% 50%;
+}
+
+  .u-section-2 .u-image-1 {
+    min-height: 270px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 405px;
+  }
+  .u-section-2 .u-image-1 {
+    min-height: 255px;
+  }
+
+.u-section-4 .u-image-1 {
+  height: 357px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-image-2 {
+  height: 357px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-image-3 {
+  height: 357px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-image-5 {
+  height: 357px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+  .u-section-4 .u-image-1 {
+    height: 283px;
+  }
+
+  .u-section-4 .u-image-2 {
+    height: 283px;
+  }
+
+  .u-section-4 .u-image-4 {
+    height: 283px;
+  }
+
+  .u-section-4 .u-image-5 {
+    height: 283px;
+  }
+
+  .u-section-4 .u-image-1 {
+    height: 335px;
+  }
+
+  .u-section-4 .u-image-2 {
+    height: 335px;
+  }
+
+  .u-section-4 .u-image-3 {
+    height: 335px;
+  }
+
+  .u-section-4 .u-image-4 {
+    height: 335px;
+  }
+
+  .u-section-4 .u-image-5 {
+    height: 335px;
+  }
+
+  .u-section-4 .u-image-1 {
+    height: 581px;
+    margin-top: 7px;
+  }
+
+  .u-section-4 .u-image-2 {
+    height: 581px;
+    margin-top: 7px;
+  }
+  .u-section-4 .u-image-3 {
+    height: 581px;
+    margin-top: 7px;
+  }
+
+  .u-section-4 .u-image-4 {
+    height: 581px;
+    margin-top: 7px;
+  }
+
+  .u-section-4 .u-image-5 {
+    height: 581px;
+    margin-top: 7px;
+  }
+
+  .u-section-4 .u-image-1 {
+    height: 387px;
+    margin-top: 0;
+  }
+
+  .u-section-4 .u-image-2 {
+    height: 387px;
+    margin-top: 0;
+  }
+  .u-section-4 .u-image-3 {
+    height: 387px;
+    margin-top: 0;
+  }
+
+  .u-section-4 .u-image-4 {
+    height: 387px;
+    margin-top: 0;
+  }
+  .u-section-4 .u-image-5 {
+    height: 387px;
+    margin-top: 0;
+  }
+
+
+  .u-section-4 .u-image-3 {
+    h
+
+.u-section-4 .u-image-4 {
+  height: 357px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 427px;
+}
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 352px;
+  }
+
 .u-section-1 .u-countdown-item-1 {
   padding-top: 0;
   box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
@@ -186,9 +332,18 @@
   grid-gap: 0px;
 }
 
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 201px;
+  }
+
 .u-section-1 .u-container-layout-1 {
   padding: 10px 10px 10px 0;
 }
+  .u-section-1 .u-image-1 {
+    background-position: 19.12% 50%;
+    min-height: 231px;
+  }
 
 .u-section-1 .u-btn-1 {
   font-weight: 700;
